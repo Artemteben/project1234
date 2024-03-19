@@ -1,5 +1,6 @@
-def summa(a,t):
+def add(a, t):
     return a + t
-def razn(b, c):
+def subtract(b, c):
+
     return b - c
 
